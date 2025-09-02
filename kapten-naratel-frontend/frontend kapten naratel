@@ -1,0 +1,4 @@
+touch components/Servis.jsx
+touch components/Benefit.jsx
+touch components/Testimonial.jsx
+touch components/Footer.jsx
