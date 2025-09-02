@@ -13,6 +13,7 @@ composer create-project laravel/laravel contend-service (enter)
 cd contend-servis(enter)
 composer require laravel/breeze --dev(enter)
 php artisan breeze:install api(enter)
+npm install axios
 buat db di pgadmin contoh web_naratel
 klik .env 
 DB_CONNECTION=pgsql
